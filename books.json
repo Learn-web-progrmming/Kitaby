@@ -1,0 +1,20 @@
+[
+    {
+        "title": "فن اللامبالاة",
+        "description": "كتاب يتناول كيفية التغلب على الصعاب والعيش حياة ذات معنى.",
+        "downloadLink": "books/art-of-not-giving-a-f.pdf",
+        "coverImage": "images/cover1.jpg"
+    },
+    {
+        "title": "نظرية الفستق",
+        "description": "مجموعة مقالات تتناول تطوير الذات والوعي.",
+        "downloadLink": "books/pistachio-theory.pdf",
+        "coverImage": "images/cover2.jpg"
+    },
+    {
+        "title": "أغنى رجل في بابل",
+        "description": "كتاب كلاسيكي عن التمويل الشخصي وكيفية بناء الثروة.",
+        "downloadLink": "books/richest-man-in-babylon.pdf",
+        "coverImage": "images/cover3.jpg"
+    }
+]
